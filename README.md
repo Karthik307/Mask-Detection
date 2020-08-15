@@ -8,3 +8,8 @@ If the person is wearing a mask a message 'safe' in a green rectangle will be pr
 else  a message 'Unsafe' will be prompted. 
 
 The program can be terminated by using esc key.
+
+Dataset link: https://tinyurl.com/datasetmask
+
+Models designed: https://tinyurl.com/AccuracyModel
+
